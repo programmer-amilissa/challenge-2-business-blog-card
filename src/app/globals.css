@@ -1,5 +1,6 @@
 @tailwind base;
 @tailwind components;
+@import '../styles/fonts.css';
 @tailwind utilities;
 
 :root {
@@ -15,6 +16,9 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+body {
+  font-family: 'Lato', sans-serif;
+}
 
 body {
   color: rgb(var(--foreground-rgb));
@@ -24,4 +28,8 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+
+.container {
+  font-family: 'Lato', sans-serif;
 }

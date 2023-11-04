@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2') format('woff2'), /* Lato Regular WOFF2 */
+         url('https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.woff') format('woff'); /* Lato Regular WOFF */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Lato';
+    src: url('https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.woff2') format('woff2'), /* Lato Bold WOFF2 */
+         url('https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.woff') format('woff'); /* Lato Bold WOFF */
+    font-weight: bold;
+    font-style: normal;
+  }
+  
